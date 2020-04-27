@@ -2,7 +2,7 @@ class /SCMTMS/CL_DAM_UH_LDA_TORFU_AI definition
   public
   create public .
 
-public section.
+public section.  
 
   interfaces /SCMTMS/IF_SRVMGR_MOCK .
 
