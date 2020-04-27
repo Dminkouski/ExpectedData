@@ -63,7 +63,7 @@ public section.
    TYPES END OF TY_D_TORITE .
  .
   types:
-         BEGIN OF TY_D_TORPTY .
+         BEGIN OF TY_D_TORPTY .        
    TYPES MANDT TYPE MANDT .
    TYPES NODE_KEY TYPE /BOBF/CONF_KEY .
    TYPES DB_KEY TYPE /BOBF/CONF_KEY .
